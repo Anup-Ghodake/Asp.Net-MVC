@@ -1,0 +1,48 @@
+C:\Users\abhishek.chidrawar\source\repos\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.deps.json
+C:\Users\abhishek.chidrawar\source\repos\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\abhishek.chidrawar\source\repos\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\abhishek.chidrawar\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\abhishek.chidrawar\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhishek.chidrawar\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\abhishek.chidrawar\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\abhishek.chidrawar\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\abhishek.chidrawar\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\abhishek.chidrawar\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
+C:\Users\abhishek.chidrawar\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\abhishek.chidrawar\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
+C:\Users\anup.ghodake\Documents\source\repos\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.deps.json
+C:\Users\anup.ghodake\Documents\source\repos\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\anup.ghodake\Documents\source\repos\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\anup.ghodake\Documents\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\anup.ghodake\Documents\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anup.ghodake\Documents\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\anup.ghodake\Documents\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\anup.ghodake\Documents\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\anup.ghodake\Documents\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\anup.ghodake\Documents\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
+C:\Users\anup.ghodake\Documents\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\anup.ghodake\Documents\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
+C:\Users\anup.ghodake\Documents\Visual Studio 2022\Practice\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.deps.json
+C:\Users\anup.ghodake\Documents\Visual Studio 2022\Practice\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\anup.ghodake\Documents\Visual Studio 2022\Practice\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\anup.ghodake\Documents\Visual Studio 2022\Practice\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\anup.ghodake\Documents\Visual Studio 2022\Practice\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anup.ghodake\Documents\Visual Studio 2022\Practice\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\anup.ghodake\Documents\Visual Studio 2022\Practice\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\anup.ghodake\Documents\Visual Studio 2022\Practice\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\anup.ghodake\Documents\Visual Studio 2022\Practice\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\anup.ghodake\Documents\Visual Studio 2022\Practice\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
+C:\Users\anup.ghodake\Documents\Visual Studio 2022\Practice\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\anup.ghodake\Documents\Visual Studio 2022\Practice\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
+C:\Users\anup.ghodake\source\repos\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.deps.json
+C:\Users\anup.ghodake\source\repos\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\anup.ghodake\source\repos\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\anup.ghodake\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\anup.ghodake\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anup.ghodake\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\anup.ghodake\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\anup.ghodake\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\anup.ghodake\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\anup.ghodake\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
+C:\Users\anup.ghodake\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\anup.ghodake\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
